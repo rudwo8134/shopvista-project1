@@ -6,10 +6,11 @@ import Home from "./Pages/Home";
 function App() {
   return (
     <Router>
-      <Navigation/>
+      <Navigation>
       <Switch>
         <Route exact to="/" render={()=><Home/>}/>
       </Switch>
+      </Navigation>
     </Router>
   );
 }
