@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopvista-project1/static/css/main.a617e044.chunk.css",
+    "main.js": "/shopvista-project1/static/js/main.06383fd8.chunk.js",
+    "main.js.map": "/shopvista-project1/static/js/main.06383fd8.chunk.js.map",
+    "runtime-main.js": "/shopvista-project1/static/js/runtime-main.2641050e.js",
+    "runtime-main.js.map": "/shopvista-project1/static/js/runtime-main.2641050e.js.map",
+    "static/js/2.5945aa17.chunk.js": "/shopvista-project1/static/js/2.5945aa17.chunk.js",
+    "static/js/2.5945aa17.chunk.js.map": "/shopvista-project1/static/js/2.5945aa17.chunk.js.map",
+    "static/js/3.8a5b69c0.chunk.js": "/shopvista-project1/static/js/3.8a5b69c0.chunk.js",
+    "static/js/3.8a5b69c0.chunk.js.map": "/shopvista-project1/static/js/3.8a5b69c0.chunk.js.map",
+    "index.html": "/shopvista-project1/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/shopvista-project1/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5945aa17.chunk.js.LICENSE.txt": "/shopvista-project1/static/js/2.5945aa17.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shopvista-project1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2641050e.js",
+    "static/js/2.5945aa17.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.06383fd8.chunk.js"
+  ]
+}
